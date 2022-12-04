@@ -1,1 +1,2 @@
-# MEAN-CRUD
+# MEAN-CRUD 
+MEAN Stack Application
